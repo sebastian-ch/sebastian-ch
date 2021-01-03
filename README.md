@@ -2,7 +2,7 @@
 
 I like leaflet, D3, maps, and spatial data visualization.
 
-I'm currently a cartography master's student at TU Vienna through the [Cartography M.Sc. Program](https://cartographymaster.eu/) :world_map:
+I'm a recent graduate of the [Cartography M.Sc. Program](https://cartographymaster.eu/) :world_map:
 <!--
 **sebastian-ch/sebastian-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
