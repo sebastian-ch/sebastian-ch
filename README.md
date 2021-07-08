@@ -1,8 +1,10 @@
 ### Hi! :ocean:
 
-I like leaflet, D3, maps, and spatial data visualization.
+I like Leaflet, D3, maps, and spatial data visualization.
 
-I'm a recent graduate of the [Cartography M.Sc. Program](https://cartographymaster.eu/) :world_map:
+Currently, I'm a GIS Developer Intern at the United Nations Development Programme supporting [Small Island Developing States](https://www.sparkblue.org/dashboard/small-island-developing-states) :desert_island:
+
+Before that, I gradatuated from the international [Cartography M.Sc. Program](https://cartographymaster.eu/) :world_map:
 <!--
 **sebastian-ch/sebastian-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
