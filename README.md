@@ -1,6 +1,6 @@
 ### Hi! :ocean:
 
-I like Leaflet, D3, maps, and spatial data visualization.
+I like Leaflet, Mapbox, D3, maps, and spatial data visualization.
 
 Currently, I'm a GIS Developer Intern at the United Nations Development Programme supporting [Small Island Developing States](https://www.sparkblue.org/dashboard/small-island-developing-states) :desert_island:
 
