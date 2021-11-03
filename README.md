@@ -5,7 +5,7 @@
 
 I like Leaflet, Mapbox, D3, maps, and spatial data visualization.
 
-Currently, I'm a GIS Developer.
+Currently I'm a GIS Developer.
 
 Before that, I gradatuated from the international [Cartography M.Sc. Program](https://cartographymaster.eu/) :world_map:
 <!--
