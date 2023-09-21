@@ -9,4 +9,7 @@ Currently I'm a GIS Developer.
 
 Before that, I gradatuated from the international [Cartography M.Sc. Program](https://cartographymaster.eu/) :world_map:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,d3,jquery,html,css,azure,django,py,electron,express,nodejs,figma,ai,ps,git,github,gitlab,postgres,sqlite,postman,vscode,vite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,d3,html,css,azure,django,py,electron,express,nodejs,figma,ai,ps,git,github,gitlab,postgres,sqlite,postman,vscode,vite&perline=6)](https://skillicons.dev)
+
+
+![](https://hit.yhype.me/github/profile?user_id=22754012)
