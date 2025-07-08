@@ -5,7 +5,7 @@
 
 I like Leaflet, Mapbox, D3, maps, and spatial data visualization.
 
-Currently I work as a Full Stack Software Engineer focusing on geospatial platforms.
+Currently I work as a full stack software engineer focusing on geospatial platforms.
 
 Before that, I gradatuated from the international [Cartography M.Sc. Program](https://cartographymaster.eu/) :world_map:
 
